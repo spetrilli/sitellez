@@ -1,0 +1,16 @@
+body {
+    background: #f527dd;
+}
+
+h1 {
+    color: aquamarine;
+    text-shadow: 1px 1px #ffffff;
+}
+
+.about {
+    color: aliceblue;
+}
+
+.music {
+    color: rgb(89, 180, 232);
+}
